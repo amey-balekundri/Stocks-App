@@ -1,0 +1,7 @@
+export const FETCH_STOCK_DATA = "FETCH_STOCK_DATA";
+export const STOCK_ERROR = "STOCK_ERROR";
+
+export const START_LOADING = "START_LOADING";
+export const STOP_LOADING = "STOP_LOADING";
+
+export const CLEAR_REDUCER = "CLEAR_REDUCER";
